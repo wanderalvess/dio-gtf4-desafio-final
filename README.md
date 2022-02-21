@@ -1,6 +1,6 @@
 # Projeto do desafio final curso GFT Start #4 Java
 
-Com esse projeto, espera-se fazer uma requisição com duas 'String', o __Nome__ e o __CEP__ do cliente.
+Com esse projeto, espera-se fazer uma requisição com duas 'Strings', o __Nome__ e o __CEP__ do cliente.
 
 Como resultado, deve se retornar um 'id' e o endereço completo do cliente com base no CEP.
 
