@@ -1,0 +1,24 @@
+# dio-gtf4-desafio-final
+Projeto do desafio final curso GFT Start #4 Java
+
+**Após executar o projeto esse é o link que deve ser acessado via navegador:**
+> [SWAGGER] (http://127.0.0.1:8080/swagger-ui/index.html#/)
+
+**No explorer passar esse valor:** 
+> /v3/api-docs
+
+**Exemplo de JSON no método POST:**
+
+```
+{
+
+  "name": "Wanderson",
+  
+  "address": {
+  
+    "cep": "75254794"
+    
+  }
+  
+}
+´´´
