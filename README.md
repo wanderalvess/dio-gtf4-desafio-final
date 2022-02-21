@@ -1,8 +1,14 @@
 # Projeto do desafio final curso GFT Start #4 Java
 
+Com esse projeto, espera-se fazer uma requisição com duas 'String', o __Nome__ e o __CEP__ do cliente.
+
+Como resultado, deve se retornar um 'id' e o endereço completo do cliente com base no CEP.
+
+**O CEP é consultado via API do site:** 
+> https://viacep.com.br
 
 **Após executar o projeto esse é o link que deve ser acessado via navegador:**
-> (http://127.0.0.1:8080/swagger-ui/index.html#/)
+> http://127.0.0.1:8080/swagger-ui/index.html#/
 
 **No explorer passar esse valor:** 
 > /v3/api-docs
